@@ -24,7 +24,9 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 * YouTube-DNN:适用于YouTube的深度神经网络推荐
 [Deep neural networks for youtube recommendations]()
 
-    
+# Embedding
+* 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
+
 
 
 
