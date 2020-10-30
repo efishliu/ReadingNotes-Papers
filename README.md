@@ -1,5 +1,8 @@
 读研期间论文笔记整理
 
+# 数学知识
+* [理解傅里叶变换与欧拉公式](https://www.cnblogs.com/aixueshuqian/p/3986288.html)(傅里叶变换将时域转换为频域，而欧拉公式将频域转化为复频域分析)
+
 # 推荐系统  
 * 多任务多视图的图表示学习框架:  
 A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Recommender Systems 
