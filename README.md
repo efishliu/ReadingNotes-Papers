@@ -30,6 +30,21 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 # Embedding
 * 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
 
+# 自然语言处理  
+* RNN,双向RNN:
+[RNN]()  
+* 长短期记忆LSTM:
+[Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition]()(2014)  
+[Recurrent Neural Network Regularization]()(2014)  
+* 门控循环单元GRU:
+[Learning Phrase Representations Using RNN Encoders-Decoders for Statistical Machine Translation]()(2014)  
+* 编码器-解码器网络Encoders-Decoders:
+[Sequence to Sequence Learning with Neural Networks]()(2014)
+* 注意力机制attention:
+[Neural Machine Translation by Jointly Learning to Align and Translate]()(2014)
 
 
+# 社交网络  
+* 社交网络中的隐藏社区发现：
+[Hidden community detection in social networks]()
 
