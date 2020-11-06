@@ -26,6 +26,8 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 [Session-based recommendations with recurrent neural networks]()  
 * YouTube-DNN:适用于YouTube的深度神经网络推荐
 [Deep neural networks for youtube recommendations]()
+* CSCNN:京东上针对视觉CTR预测的特定类别CNN:
+[Category-Specific CNN for Visual-aware CTR Prediction at JD.com]()(利用attention机制将类别作为先验知识训练广告图像的嵌入)
 
 # Embedding
 * 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
