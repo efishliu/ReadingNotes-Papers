@@ -31,6 +31,7 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 
 # Embedding
 * 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
+* 多视图表示学习：[A Survey of Multi-View Representation Learning]().(多视图对齐与多视图融合综述，2017）
 
 # 自然语言处理  
 * RNN,双向RNN:
