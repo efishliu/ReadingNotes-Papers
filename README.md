@@ -21,7 +21,7 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
     * GraphSAGE:大图的归纳学习表示:
         [Inductive representation learning on large graphs]()
     * EGESage:阿里电子商务中数十亿商品嵌入:
-        [Billion-scale commodity embedding for e-commerce recommendation in Alibaba]()
+        [Billion-scale commodity embedding for e-commerce recommendation in Alibaba](./Papers/Recommendation/Billion-scale%20commodity%20embedding%20for%20e-commerce%20recommendation.pdf)
 * GRU4Rec:基于会话的循环神经网络的推荐:  
 [Session-based recommendations with recurrent neural networks]()  
 * YouTube-DNN:适用于YouTube的深度神经网络推荐
