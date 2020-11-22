@@ -51,3 +51,8 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 * 社交网络中的隐藏社区发现：
 [Hidden community detection in social networks]()
 
+# Other  
+* 多视图表示学习研究：
+[A Survey of Multi-View Representation Learning]()(多视图表示学习融合与对齐的综述)  
+* 神经网络中的权重不确定度：
+[Weight Uncertainty in Neural Networks]()(贝叶斯神经网络开篇之作，变分推断，蒙特卡洛采样等，对任务权重学习的新思路)
