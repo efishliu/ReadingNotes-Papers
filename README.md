@@ -28,6 +28,8 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 [Deep neural networks for youtube recommendations]()
 * CSCNN:京东上针对视觉CTR预测的特定类别CNN:
 [Category-Specific CNN for Visual-aware CTR Prediction at JD.com]()(利用attention机制将类别作为先验知识训练广告图像的嵌入)
+* 《深度学习推荐系统》：从特征交叉，Embedding，经典推荐模型等几个角度来阐述深度学习下的推荐系统  
+[SparrowRecSys](https://github.com/efishliu/SparrowRecSys)：从工程实践角度来学习推荐系统  
 
 # Embedding
 * 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
@@ -49,7 +51,9 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 
 # 社交网络  
 * 社交网络中的隐藏社区发现：
-[Hidden community detection in social networks]()
+[Hidden community detection in social networks]()  
+* TIMME:多任务多关系嵌入下的推特意识检测：
+[TIMME：Twitter Ideology-detection via Multi-task Multi-relational Embedding](./Papers/RepresentationLearning/TIMME%EF%BC%9ATwitter%20Ideology-detection%20via%20Multi-task%20Multi-relational%20Embedding.pdf)
 
 # Other  
 * 多视图表示学习研究：
