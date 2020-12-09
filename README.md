@@ -30,6 +30,8 @@ A Multi-task Multi-view Graph Representation Learning Framework forWeb-scale Rec
 [Category-Specific CNN for Visual-aware CTR Prediction at JD.com]()(利用attention机制将类别作为先验知识训练广告图像的嵌入)
 * 《深度学习推荐系统》：从特征交叉，Embedding，经典推荐模型等几个角度来阐述深度学习下的推荐系统  
 [SparrowRecSys](https://github.com/efishliu/SparrowRecSys)：从工程实践角度来学习推荐系统  
+* AutoFIS:用于点击率预测的自动特征交叉分解模型：
+[AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction ](./Papers/Recommendation/AutoFIS%20Automatic%20Feature%20Interaction%20Selection%20in%20Factorization%20Models%20for%20Click-Through%20Rate%20Prediction.pdf)
 
 # Embedding
 * 超图神经网络: [Hypergraph Neural Networks]().(将图卷积应用到超图)  
